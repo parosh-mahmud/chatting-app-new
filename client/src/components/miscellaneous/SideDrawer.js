@@ -136,7 +136,7 @@ const SideDrawer = () => {
           </Button>
         </Tooltip>
         <Text fontSize="2xl" fontFamily="Work sans">
-          MERN-CHAT-APP
+          CHAT-HUB
         </Text>
         <div>
           <Menu>
