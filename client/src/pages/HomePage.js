@@ -30,8 +30,8 @@ useEffect(
     borderRadius="lg"
     borderWidth="1px"
     >
-      <Text fontSize='4xl' fontFamily="Work sans" color="black">
-        MERN-CHAT-APP
+      <Text textAlign="center" fontSize='4xl' fontFamily="Work sans" color="black">
+        CHAT-HUB
       </Text>
       <Tabs variant='soft-rounded' >
   <TabList>
